@@ -1,0 +1,121 @@
+Suburb,Rooms,Type,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,CouncilArea,Regionname,Year,target
+Abbotsford,2,h,5,3067,2,1,1,200,Yarra,Northern Metropolitan,2016,1400000
+Abbotsford,2,h,5,3067,2,1,0,200,Yarra,Northern Metropolitan,2016,1000000
+Abbotsford,3,h,5,3067,3,2,0,200,Yarra,Northern Metropolitan,2017,1400000
+Abbotsford,3,h,5,3067,3,2,1,0,Yarra,Northern Metropolitan,2017,800000
+Abbotsford,4,h,5,3067,3,1,2,200,Yarra,Northern Metropolitan,2016,1600000
+Abbotsford,2,h,5,3067,2,1,0,200,Yarra,Northern Metropolitan,2016,1000000
+Abbotsford,3,h,5,3067,4,2,0,200,Yarra,Northern Metropolitan,2016,1800000
+Abbotsford,2,h,5,3067,2,1,2,200,Yarra,Northern Metropolitan,2016,1600000
+Abbotsford,1,u,5,3067,1,1,1,0,Yarra,Northern Metropolitan,2016,400000
+Abbotsford,2,h,5,3067,3,1,2,200,Yarra,Northern Metropolitan,2016,1000000
+Abbotsford,2,u,5,3067,2,2,1,0,Yarra,Northern Metropolitan,2016,800000
+Abbotsford,3,h,5,3067,3,2,2,200,Yarra,Northern Metropolitan,2016,1400000
+Abbotsford,2,u,5,3067,2,2,1,0,Yarra,Northern Metropolitan,2016,800000
+Abbotsford,2,h,5,3067,2,1,1,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,1,u,5,3067,1,1,1,0,Yarra,Northern Metropolitan,2016,400000
+Abbotsford,2,h,5,3067,2,1,2,200,Yarra,Northern Metropolitan,2016,1400000
+Abbotsford,3,h,5,3067,3,2,1,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,3,h,5,3067,2,1,1,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,3,h,5,3067,3,1,0,200,Yarra,Northern Metropolitan,2016,1000000
+Abbotsford,2,h,5,3067,2,1,1,200,Yarra,Northern Metropolitan,2016,800000
+Abbotsford,4,h,5,3067,4,2,2,800,Yarra,Northern Metropolitan,2017,1400000
+Abbotsford,3,t,5,3067,3,2,2,0,Yarra,Northern Metropolitan,2017,1000000
+Abbotsford,3,u,5,3067,3,2,2,Over 1000,Yarra,Northern Metropolitan,2017,1000000
+Abbotsford,2,u,5,3067,2,1,1,0,Yarra,Northern Metropolitan,2016,600000
+Abbotsford,2,h,5,3067,2,2,1,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,2,h,5,3067,2,1,0,200,Yarra,Northern Metropolitan,2016,1400000
+Abbotsford,1,u,5,3067,1,1,1,0,Yarra,Northern Metropolitan,2016,400000
+Abbotsford,3,h,5,3067,3,3,1,200,Yarra,Northern Metropolitan,2016,1400000
+Abbotsford,1,u,5,3067,1,1,1,0,Yarra,Northern Metropolitan,2016,400000
+Abbotsford,2,h,5,3067,2,2,2,0,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,4,h,5,3067,4,3,1,0,Yarra,Northern Metropolitan,2016,1600000
+Abbotsford,3,h,5,3067,3,2,2,200,Yarra,Northern Metropolitan,2017,1200000
+Abbotsford,3,h,5,3067,3,1,1,200,Yarra,Northern Metropolitan,2017,1200000
+Abbotsford,1,u,5,3067,1,1,1,0,Yarra,Northern Metropolitan,2016,400000
+Abbotsford,2,h,5,3067,2,1,0,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,3,h,5,3067,3,2,1,200,Yarra,Northern Metropolitan,2016,1200000
+Abbotsford,2,h,5,3067,2,1,0,200,Yarra,Northern Metropolitan,2016,1000000
+Abbotsford,2,h,5,3067,2,1,1,200,Yarra,Northern Metropolitan,2016,1000000
+Airport West,3,t,15,3042,3,2,1,400,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,2,1,0,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,2,1,0,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,2,h,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2017,600000
+Airport West,3,t,15,3042,3,2,2,200,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,3,h,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2017,600000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2017,600000
+Airport West,3,h,15,3042,2,1,1,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,4,h,15,3042,3,1,2,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,6,h,15,3042,6,3,2,1000,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,2,t,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,400000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,h,15,3042,3,1,6,Over 1000,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,1,1,0,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,u,15,3042,3,1,1,200,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,400000
+Airport West,5,h,15,3042,3,2,2,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,t,15,3042,3,2,2,200,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,1,2,1000,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,400000
+Airport West,3,h,15,3042,3,2,2,600,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,2,h,15,3042,2,1,1,600,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,h,15,3042,3,2,5,600,Moonee Valley,Western Metropolitan,2016,1000000
+Airport West,3,h,15,3042,3,1,1,800,Moonee Valley,Western Metropolitan,2016,1000000
+Airport West,4,h,15,3042,5,3,4,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,3,2,600,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,3,h,15,3042,3,2,2,400,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,3,h,15,3042,3,1,3,600,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,3,t,15,3042,2,2,1,200,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,t,15,3042,3,2,1,200,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,3,h,15,3042,3,1,1,600,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,h,15,3042,3,1,1,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,2,u,15,3042,2,1,1,200,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,h,15,3042,3,2,1,200,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,3,h,15,3042,3,1,2,600,Moonee Valley,Western Metropolitan,2016,600000
+Airport West,4,h,15,3042,4,3,2,600,Moonee Valley,Western Metropolitan,2016,1000000
+Airport West,3,h,15,3042,3,1,1,600,Moonee Valley,Western Metropolitan,2017,800000
+Airport West,4,h,15,3042,4,1,2,600,Moonee Valley,Western Metropolitan,2016,800000
+Airport West,4,h,15,3042,4,2,3,600,Moonee Valley,Western Metropolitan,2016,1000000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1200000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1400000
+Albert Park,3,h,5,3206,3,2,0,200,Port Phillip,Southern Metropolitan,2017,Over 2M
+Albert Park,3,h,5,3206,3,2,0,200,Port Phillip,Southern Metropolitan,2017,1800000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2017,1400000
+Albert Park,2,h,5,3206,1,1,0,200,Port Phillip,Southern Metropolitan,2016,1200000
+Albert Park,2,h,5,3206,2,1,1,200,Port Phillip,Southern Metropolitan,2016,1600000
+Albert Park,4,h,5,3206,4,2,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,3,t,5,3206,3,2,2,800,Port Phillip,Southern Metropolitan,2016,1600000
+Albert Park,3,h,5,3206,3,2,1,200,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,2,h,5,3206,2,1,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,3,h,5,3206,3,1,1,200,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,3,h,5,3206,3,2,1,0,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,3,h,5,3206,3,2,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,5,h,5,3206,5,2,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,3,h,5,3206,3,1,0,200,Port Phillip,Southern Metropolitan,2016,1400000
+Albert Park,3,h,5,3206,3,2,2,0,Port Phillip,Southern Metropolitan,2016,1400000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1000000
+Albert Park,3,h,5,3206,3,2,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1400000
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2016,1600000
+Albert Park,3,h,5,3206,3,2,1,200,Port Phillip,Southern Metropolitan,2016,2000000
+Albert Park,3,h,5,3206,3,1,0,200,Port Phillip,Southern Metropolitan,2017,2000000
+Albert Park,3,h,5,3206,3,2,0,200,Port Phillip,Southern Metropolitan,2017,Over 2M
+Albert Park,4,h,5,3206,4,3,1,400,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,2,u,5,3206,2,1,1,0,Port Phillip,Southern Metropolitan,2016,600000
+Albert Park,3,h,5,3206,2,1,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,3,h,5,3206,3,1,1,200,Port Phillip,Southern Metropolitan,2016,2000000
+Albert Park,1,u,5,3206,1,1,0,0,Port Phillip,Southern Metropolitan,2017,400000
+Albert Park,4,h,5,3206,4,2,1,400,Port Phillip,Southern Metropolitan,2017,Over 2M
+Albert Park,2,h,5,3206,2,1,0,200,Port Phillip,Southern Metropolitan,2017,1400000
+Albert Park,3,h,5,3206,3,1,1,200,Port Phillip,Southern Metropolitan,2017,1800000
+Albert Park,3,h,5,3206,3,3,1,0,Port Phillip,Southern Metropolitan,2016,1600000
+Albert Park,3,h,5,3206,3,2,2,400,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,4,h,5,3206,3,2,1,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,2,h,5,3206,2,1,1,200,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,2,h,5,3206,2,1,0,0,Port Phillip,Southern Metropolitan,2016,1000000
+Albert Park,3,h,5,3206,3,2,0,200,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,3,h,5,3206,3,2,2,200,Port Phillip,Southern Metropolitan,2016,1800000
+Albert Park,3,h,5,3206,3,3,1,0,Port Phillip,Southern Metropolitan,2016,Over 2M
+Albert Park,1,h,5,3206,1,1,0,0,Port Phillip,Southern Metropolitan,2016,1000000
